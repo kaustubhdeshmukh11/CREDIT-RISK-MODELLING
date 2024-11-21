@@ -26,7 +26,7 @@ End Date: November 2024
 
 5.Model Evaluation: The model’s performance was evaluated using metrics like AUC, precision, recall, and accuracy to ensure its effectiveness for real-world credit risk assessment.
 
-6.Deployment: The trained model was deployed using FastAPI, providing an API for real-time predictions and seamless integration with banking systems.
+6.Deployment: The trained model was deployed using FlaskAPI, providing an API for real-time predictions and seamless integration with banking systems.
 # Dataset
 The project uses two datasets for training and evaluation:
 
